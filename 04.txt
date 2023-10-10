@@ -1,0 +1,4 @@
+Questão 4 - Resposta: c). Segue a justificativa:
+
+Primeiramente, temos que o valor convertido para um int de 16 bits é !(21>21), o equivalente a true, ou seja, é convertido para o número 1.
+Por fim, ao ocorrer a atribuição do int16 para o int32, o valor continua o mesmo, visto que o tamanho da variável que recebe é maior, nenhum dado é perdido
